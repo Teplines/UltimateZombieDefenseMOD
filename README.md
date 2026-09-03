@@ -1,4 +1,3 @@
-```markdown
 # 🧟 Ultimate Zombie Defense — 16 Players MOD
 
 > *The horde is coming. This time, you won't face it alone.*
@@ -40,4 +39,3 @@ This MOD is released **free of charge** and is intended solely for **learning an
 ---
 
 *Good luck out there, survivor. You're gonna need it.*
-```
