@@ -8,5 +8,3 @@ Ultimate Zombie Defense 16 players room MOD
 Download the zip file and extract it to the game's root directory.
 # Statement
 This MOD is released for free and is intended for learning and communication purposes only.
-# Reference 
-Thanks, https://www.bilibili.com/opus/1102105590473162755
