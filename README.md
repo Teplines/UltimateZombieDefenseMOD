@@ -14,9 +14,9 @@ Language: English | [中文](README.zh-CN.md)
 
 ---
 
-## 📊 Game Balance & Difficulty Curve
+## 📊 Game Balance & MOD Data Chart
 
-![Difficulty Curve](difficulty_curve.png)
+![MOD Data Chart](./images/MODDataChart.png)
 
 *The chart shows zombie HP (logarithmic axis) and zombie counts (linear axis) across Waves 1–110, demonstrating the smooth difficulty progression designed by this MOD.*
 
@@ -66,13 +66,10 @@ All of the following attributes gain a **+5% cumulative boost every 5 rounds**:
 
 ## 🧟 Zombie Balance & Game Progression
 
-- Early-game difficulty is identical to the official vanilla version; mid & late-game difficulty growth is significantly smoothed.
-- **Round 100** is set as the official clear round for this MOD.
-- After clearing Round 100, vanilla difficulty will be restored. The official maximum round limit is **Round 110**.
-- There are **Easter eggs** for completing rounds 100 and 110 in MOD.
-- This MOD adds randomness to non-BOSS turns to **accelerate the game**.
-- **Weapon Damage Leaderboard** updates every 2 rounds.
-- **Kill Count Leaderboard** updates every 5 rounds.
+- **Streamlined Difficulty:** Early-game stays true to vanilla, while mid & late-game difficulty growth is significantly smoothed.
+- **Game Clear Goal:** MOD max at Round 100, then vanilla difficulty resumes. Official max is Round 110. Easter eggs at both.
+- **Faster Pacing:** RNG added to non-BOSS turns for faster gameplay.
+- **Leaderboards:** Weapon Damage & Kill Count rankings.
 
 ---
 
